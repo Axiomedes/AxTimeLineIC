@@ -42,8 +42,7 @@ Construido sobre un motor gráfico vectorial **GDI+** con soporte de suavizado (
 
 ## 📁 Estructura del Proyecto
 
-| :--- | :--- |
-| Proyecto Control |
+| Archivo | Descripción |
 | :--- | :--- |
 | `AxTimeLineIC.ctl` | Control de Usuario ActiveX principal (Canvas GDI+, renderizado y eventos). |
 | `clsTimePoint.cls` | Clase de datos de cada hito individual (Propiedades, colores, estado, icono e imagen). |
