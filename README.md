@@ -5,6 +5,8 @@
 Construido sobre un motor gráfico vectorial **GDI+** con soporte de suavizado (*Anti-Aliasing*), sombreado difuso (*Soft Drop Shadows*), doble búfer en memoria (*DIB Section*) sin parpadeos (*Flicker-Free*) y compatibilidad nativa con fuentes de iconos e imágenes con canal alfa.
 
 ---
+<img width="1045" height="783" alt="image" src="https://github.com/user-attachments/assets/7d43415e-e7e3-4c35-8cba-b3dfa8fdcb93" />
+---
 
 ## 🌟 Características Principales
 
