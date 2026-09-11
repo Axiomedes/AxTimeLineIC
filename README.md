@@ -42,6 +42,7 @@ Construido sobre un motor gráfico vectorial **GDI+** con soporte de suavizado (
 
 ## 📁 Estructura del Proyecto
 
+| :--- | :--- |
 | Proyecto Control |
 | :--- | :--- |
 | `AxTimeLineIC.ctl` | Control de Usuario ActiveX principal (Canvas GDI+, renderizado y eventos). |
