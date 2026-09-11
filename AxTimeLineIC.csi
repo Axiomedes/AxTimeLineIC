@@ -1,0 +1,11 @@
+[History]
+1=#P0#=mb	#P1#=RenderCard	#P2#=vb6projectAxTimeLineIC/AxTimeLineIC/RenderCard	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20260910232151	#P7#=0	#P8#=4	.
+2=#P0#=mb	#P1#=RenderNodeShape	#P2#=vb6projectAxTimeLineIC/AxTimeLineIC/RenderNodeShape	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20260910232233	#P7#=0	#P8#=48	.
+3=#P0#=mb	#P1#=CardRadius	#P2#=vb6projectAxTimeLineIC/AxTimeLineIC/CardRadius [Get]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20260910230324	#P7#=0	#P8#=0	.
+4=#P0#=mb	#P1#=UserControl_ReadProperties	#P2#=vb6projectAxTimeLineIC/AxTimeLineIC/UserControl_ReadProperties	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20260910230239	#P7#=0	#P8#=22	.
+5=#P0#=mb	#P1#=UserControl_Initialize	#P2#=vb6projectAxTimeLineIC/AxTimeLineIC/UserControl_Initialize	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20260910230208	#P7#=0	#P8#=35	.
+6=#P0#=mb	#P1#=UserControl_Show	#P2#=vb6projectAxTimeLineIC/ucScrollbar/UserControl_Show	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20260910225005	#P7#=0	#P8#=3	.
+7=#P0#=mb	#P1#=CalculateThumb	#P2#=vb6projectAxTimeLineIC/ucScrollbar/CalculateThumb	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20260910224953	#P7#=0	#P8#=0	.
+8=#P0#=mb	#P1#=TrackMouseWheelOnHwnd	#P2#=vb6projectAxTimeLineIC/ucScrollbar/TrackMouseWheelOnHwnd	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20260910224938	#P7#=0	#P8#=0	.
+9=#P0#=mb	#P1#=Orientation	#P2#=vb6projectAxTimeLineIC/ucScrollbar/Orientation [Get]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20260910224932	#P7#=0	#P8#=0	.
+10=#P0#=mb	#P1#=UserControl_MouseDown	#P2#=vb6projectAxTimeLineIC/ucScrollbar/UserControl_MouseDown	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20260910224907	#P7#=0	#P8#=-1	.

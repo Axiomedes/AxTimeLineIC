@@ -1,0 +1,5 @@
+[History]
+1=#P0#=mb	#P1#=txtSectionSpace_Change	#P2#=TestDemo/FormDemo/txtSectionSpace_Change	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20260910232824	#P7#=0	#P8#=2	.
+2=#P0#=mb	#P1#=txtNodeSize_Change	#P2#=TestDemo/FormDemo/txtNodeSize_Change	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20260910232515	#P7#=0	#P8#=1	.
+3=#P0#=mb	#P1#=txtCorner_Change	#P2#=TestDemo/FormDemo/txtCorner_Change	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20260910232304	#P7#=0	#P8#=2	.
+4=#P0#=mb	#P1#=txtRadius_Change	#P2#=TestDemo/FormDemo/txtRadius_Change	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20260910225926	#P7#=0	#P8#=1	.
