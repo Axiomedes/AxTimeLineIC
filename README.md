@@ -243,9 +243,8 @@ End Sub
 ## 💻 Requisitos del Sistema y Compatibilidad
 
 * **Entorno de Desarrollo:** Microsoft Visual Basic 6.0 (SP6 recomendado).
-* **Sistemas Operativos Compatibles:** Windows 7, Windows 8/8.1, Windows 10 y Windows 11 (32 bits y 64 bits).
+* **Sistemas Operativos Compatibles:** Windows 7, 8/8.1, 10 y 11 (32 bits y 64 bits).
 * **Librerías del Sistema:** `gdiplus.dll` (incluida de forma nativa en todas las versiones modernas de Windows).
-* **Codificación de Archivos:** Windows-1252 (ANSI) / UTF-8 con terminación de línea `CR+LF`.
 
 ---
 
