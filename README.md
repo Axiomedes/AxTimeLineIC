@@ -1,6 +1,6 @@
-# AxTimeLineIC v2.0 - Control Gráfico de Línea de Tiempo para Visual Basic 6
+# AxTimeLineIC (AxTimeLine v2.0 or Improved Control) - Control Gráfico de Línea de Tiempo para Visual Basic 6
 
-**AxTimeLineIC** es un control de usuario ActiveX (`UserControl` / `.ctl` / `.ocx`) de última generación diseñado para Visual Basic 6.0. Proporciona una representación visual moderna, fluida y altamente personalizable de líneas de tiempo, procesos por pasos, diagramas de flujo interactivos, bitácoras y wizards.
+**AxTimeLineIC** es un control de usuario ActiveX (`UserControl` / `.ctl` / `.ocx`) diseñado para Visual Basic 6.0. Proporciona una representación visual moderna, fluida y altamente personalizable de líneas de tiempo, procesos por pasos, diagramas de flujo interactivos, bitácoras y wizards.
 
 Construido sobre un motor gráfico vectorial **GDI+** con soporte de suavizado (*Anti-Aliasing*), sombreado difuso (*Soft Drop Shadows*), doble búfer en memoria (*DIB Section*) sin parpadeos (*Flicker-Free*) y compatibilidad nativa con fuentes de iconos e imágenes con canal alfa.
 
@@ -49,6 +49,7 @@ Construido sobre un motor gráfico vectorial **GDI+** con soporte de suavizado (
 | `clsTimePoints.cls`| Colección tipada de hitos (`Add`, `Insert`, `Remove`, `Item`, `Count`, `Clear`). |
 | `ucScrollbar.ctl`   | Control interno de barra de desplazamiento GDI+ con diseño moderno. |
 | `mGDIPlus.bas`      | Módulo de soporte de APIs Win32 / GDI+, trazado de geometrías y sombras. |
+
 | `mdlTestData.bas`   | Generador de datos de prueba y escenarios de ejemplo. |
 | `FormDemo.frm`      | Formulario de demostración interactiva (*Showcase*). |
 | `AxTimeLineIC.vbp`  | Proyecto OCX / Control ActiveX. |
