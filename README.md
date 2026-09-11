@@ -49,7 +49,7 @@ Construido sobre un motor gráfico vectorial **GDI+** con soporte de suavizado (
 | `clsTimePoints.cls`| Colección tipada de hitos (`Add`, `Insert`, `Remove`, `Item`, `Count`, `Clear`). |
 | `ucScrollbar.ctl`   | Control interno de barra de desplazamiento GDI+ con diseño moderno. |
 | `mGDIPlus.bas`      | Módulo de soporte de APIs Win32 / GDI+, trazado de geometrías y sombras. |
-| :--- | :--- |
+| Projecto de prueba |
 | `mdlTestData.bas`   | Generador de datos de prueba y escenarios de ejemplo. |
 | `FormDemo.frm`      | Formulario de demostración interactiva (*Showcase*). |
 | `AxTimeLineIC.vbp`  | Proyecto OCX / Control ActiveX. |
